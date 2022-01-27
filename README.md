@@ -237,3 +237,29 @@ Just read the [Table](https://cloud.google.com/apis/design/errors)
 * Package name: nthu.gdsc.drug.v1
 * Interface name: nthu.gdsc.drug.v1.DrugService
 * Check [details](https://cloud.google.com/apis/design/naming_convention)
+
+## [Design patterns](https://cloud.google.com/apis/design/design_patterns)
+MUST read whole content! Try to explain patterns on the list.
+* Empty Responses
+* Representing Ranges
+* Resource Labels
+* List Pagination
+* List Sub-Collections
+* Get Unique Resource From Sub-Collection
+* Sorting Order
+* Request Validation
+* Request Duplication
+* Enum Default Value
+* Grammar Syntax
+* Integer Types
+* Partial Response
+* Resource View
+* ETags
+* Output Fields
+* Streaming Half-Close
+* Domain-scoped names
+* Singleton Resources
+* Bool vs. Enum vs. String
+* Data Retention
+* Large Payloads
+* Optional Primitive Fields
